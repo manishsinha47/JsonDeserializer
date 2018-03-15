@@ -1,0 +1,13 @@
+D:\Project Work\WDBChatbot\WDBChatbot\bin\Debug\WDBChatbot.exe.config
+D:\Project Work\WDBChatbot\WDBChatbot\bin\Debug\WDBChatbot.exe
+D:\Project Work\WDBChatbot\WDBChatbot\bin\Debug\WDBChatbot.pdb
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.csprojResolveAssemblyReference.cache
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.Form1.resources
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.Properties.Resources.resources
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.csproj.GenerateResource.cache
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.csproj.CoreCompileInputs.cache
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.exe
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.pdb
+D:\Project Work\WDBChatbot\WDBChatbot\bin\Debug\Newtonsoft.Json.dll
+D:\Project Work\WDBChatbot\WDBChatbot\bin\Debug\Newtonsoft.Json.xml
+D:\Project Work\WDBChatbot\WDBChatbot\obj\Debug\WDBChatbot.csproj.CopyComplete
