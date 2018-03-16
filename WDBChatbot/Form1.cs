@@ -31,8 +31,8 @@ namespace WDBChatbot
             try
             {
                 var jsonParse = JsonConvert.DeserializeObject<JsonClass>(jsonString);
-                jsonDebugOutput("Json object:" + jsonParse.ToString());
-                jsonDebugOutput("Top Scoring Intent is:" + jsonParse.topScoringIntent.intent.ToString());
+                jsonDebugOutput( jsonParse.ToString());
+                jsonDebugOutput(  jsonParse.topScoringIntent.intent.ToString());
 
                 #region Printing all elements in an array or list of Intents
                 foreach (var num in jsonParse.intents)
@@ -44,7 +44,7 @@ namespace WDBChatbot
                 #region Printing all elements in array of entities
                 foreach (var num in jsonParse.entities)
                 {
-                    jsonDebugOutput("Entity selected is "+num.entity + ", type of entity is " + num.type + " and score is " + num.score);
+                    jsonDebugOutput("Entity selected is "+num.entity /*+ ", type of entity is " + num.type + " and score is " + num.score*/);
                 }
                 #endregion
 
